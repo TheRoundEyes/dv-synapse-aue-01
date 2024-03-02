@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--dv-synapse-aue-01",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/3e2dd321-1f75-4187-827c-c4e3a1516d42/resourceGroups/mjpr-data-engineering/providers/Microsoft.Synapse/workspaces/dv-synapse-aue-01",
+		"groupId": "sql",
+		"fqdns": [
+			"dv-synapse-aue-01.a9640573-38ed-42f4-a531-307cd6bc955e.sql.azuresynapse.net"
+		]
+	}
+}

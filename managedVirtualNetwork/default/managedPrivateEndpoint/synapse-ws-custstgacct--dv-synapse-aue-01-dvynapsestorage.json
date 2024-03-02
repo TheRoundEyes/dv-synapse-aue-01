@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--dv-synapse-aue-01-dvynapsestorage",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/3e2dd321-1f75-4187-827c-c4e3a1516d42/resourceGroups/mjpr-data-engineering/providers/Microsoft.Storage/storageAccounts/dvynapsestorage",
+		"groupId": "dfs"
+	}
+}
