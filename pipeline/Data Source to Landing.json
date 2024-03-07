@@ -1,0 +1,9 @@
+{
+	"name": "Data Source to Landing",
+	"properties": {
+		"folder": {
+			"name": "Retail Data"
+		},
+		"annotations": []
+	}
+}
